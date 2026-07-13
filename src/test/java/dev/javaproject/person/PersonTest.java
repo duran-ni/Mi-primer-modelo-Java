@@ -1,4 +1,4 @@
-package com.javaproject.person;
+package dev.javaproject.person;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

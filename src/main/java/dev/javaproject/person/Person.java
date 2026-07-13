@@ -1,4 +1,4 @@
-package com.javaproject.person;
+package dev.javaproject.person;
 
 import java.time.Year;
 
